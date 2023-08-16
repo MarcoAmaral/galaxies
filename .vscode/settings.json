@@ -1,0 +1,5 @@
+{
+  "prettier.bracketSameLine": true,
+  "prettier.printWidth": 100,
+  "liveServer.settings.port": 5501
+}
